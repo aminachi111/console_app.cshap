@@ -1,7 +1,10 @@
 # console_app.cshap
 
 1. Simple creature
-![Simple creature](image.png)
+![Simple creature](image-1.png)
 
 2. Holmes creature
-![Holmes creature](holmes_creature.png)
+![Holmes creature](image-2.png)
+
+3. Temperature
+![Temperature](image-3.png)
