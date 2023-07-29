@@ -8,3 +8,6 @@
 
 3. Temperature
 ![Temperature](image-3.png)
+
+4. Average grade
+![Average grade](image-4.png)
