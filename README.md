@@ -42,3 +42,6 @@
 
 14. Multiply Even Numbers
 ![Multiply Even Numbers](image-14.png)
+
+15. Recursive Factorial
+![Recursive Factorial](image-fact.png)
