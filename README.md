@@ -48,3 +48,6 @@
 
 16. Multiply Even Recursive
 ![Multiply Even Recursive](multiplyeven_recursive.png)
+
+17. Multiply Odd Recursive
+![Multiply Odd Recursive](multiplyodd_recursive.png)
