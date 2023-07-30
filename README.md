@@ -45,3 +45,6 @@
 
 15. Recursive Factorial
 ![Recursive Factorial](image-fact.png)
+
+16. Multiply Even Recursive
+![Multiply Even Recursive](multiplyeven_recursive.png)
