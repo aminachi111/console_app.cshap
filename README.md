@@ -51,3 +51,6 @@
 
 17. Multiply Odd Recursive
 ![Multiply Odd Recursive](multiplyodd_recursive.png)
+
+18. Swapping Values
+![Swapping Values](swap_numbers.png)
