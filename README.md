@@ -63,3 +63,6 @@
 
 21. Min number: Array
 ![Min number: Array](min_number_array.png)
+
+22. Students Method
+![Students Method](students_method.png)
