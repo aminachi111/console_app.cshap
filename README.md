@@ -54,3 +54,6 @@
 
 18. Swapping Values
 ![Swapping Values](swap_numbers.png)
+
+19. Sum of even numbers: Array
+![Sum of even numbers: Array](sum_even_array.png)
