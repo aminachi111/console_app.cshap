@@ -60,3 +60,6 @@
 
 20. Max number: Array
 ![Max number: Array](max_number_array.png)
+
+21. Min number: Array
+![Min number: Array](min_number_array.png)
