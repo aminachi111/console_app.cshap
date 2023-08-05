@@ -57,3 +57,6 @@
 
 19. Sum of even numbers: Array
 ![Sum of even numbers: Array](sum_even_array.png)
+
+20. Max number: Array
+![Max number: Array](max_number_array.png)
