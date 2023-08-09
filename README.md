@@ -66,3 +66,6 @@
 
 22. Students Method
 ![Students Method](students_method.png)
+
+23. Second biggest number: Array
+![Second biggest number: Array](second_maxnumber_array.png)
