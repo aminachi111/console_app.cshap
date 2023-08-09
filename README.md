@@ -69,3 +69,6 @@
 
 23. Second biggest number: Array
 ![Second biggest number: Array](second_maxnumber_array.png)
+
+24. 2x2 Array
+![2x2 Array](2x2_array.png)
