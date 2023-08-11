@@ -30,6 +30,7 @@ namespace String
             }
             Console.WriteLine("Index of e: " + str.IndexOf("e", 0));
             string[] words = str.Split(" ");
+            Console.WriteLine("Split the words: ");
             foreach (string word1 in words)
             {
                 Console.WriteLine("- {0}",word1);
