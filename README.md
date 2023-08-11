@@ -72,3 +72,6 @@
 
 24. 2x2 Array
 ![2x2 Array](2x2_array.png)
+
+25. Average Function
+![Average Function](average_function.png)
