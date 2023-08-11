@@ -75,3 +75,6 @@
 
 25. Average Function
 ![Average Function](average_function.png)
+
+26. Strings
+![Strings](strings.png)
