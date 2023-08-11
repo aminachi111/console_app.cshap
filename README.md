@@ -70,8 +70,8 @@
 23. Second biggest number: Array
 ![Second biggest number: Array](second_maxnumber_array.png)
 
-24. 2x2 Array
-![2x2 Array](2x2_array.png)
+24. 4x3 Array
+![4x3 Array](4x3_array.png)
 
 25. Average Function
 ![Average Function](average_function.png)
