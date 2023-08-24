@@ -78,3 +78,6 @@
 
 26. Strings
 ![Strings_functions](string_functions.png)
+
+27. Person
+![Person](person.png)
